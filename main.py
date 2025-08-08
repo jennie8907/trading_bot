@@ -1,5 +1,3 @@
-from keep_alive import keep_alive
-keep_alive()
 
 
 import os
@@ -201,3 +199,4 @@ def trading_strategy():
 
 if __name__ == "__main__":
     trading_strategy()
+
